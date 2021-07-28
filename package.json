@@ -1,0 +1,25 @@
+{
+  "name": "latex_quiz",
+  "version": "1.0.0",
+  "description": "tentar fazer um editor de quiz para latex",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpfaraujo/latex_quiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpfaraujo/latex_quiz/issues"
+  },
+  "homepage": "https://github.com/mpfaraujo/latex_quiz#readme",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
